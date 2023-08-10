@@ -6,7 +6,7 @@ database resource: https://www.kaggle.com/hugomathien/soccer
 
 /*
 Link to Tableau Dashboard
-https://public.tableau.com/shared/4Z2FR4GHR?:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/EuroSoccerEDA200809-2001516/EuroSoccer1?:language=en-US&:display_count=n&:origin=viz_share_link
 */
 
 -- Queries for Tableau project
